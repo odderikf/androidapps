@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">oppgave2</string>
+    <string name="addString">Adder</string>
+    <string name="multString">Multipliser</string>
+    <string name="svarString">Svar:</string>
+    <string name="ovreGrenseString">Øvre Grense:</string>
+    <string name="riktigString">Riktig!</string>
+    <string name="feilString">Feil. Riktig svar er: </string>
+    <string name="invalidString">Ugyldig verdi i felt</string>
+</resources>
