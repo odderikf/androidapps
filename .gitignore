@@ -63,3 +63,6 @@ fastlane/Preview.html
 fastlane/screenshots
 fastlane/test_output
 fastlane/readme.md
+
+# zip files made for handing in assignments
+*.zip
